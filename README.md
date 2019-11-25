@@ -15,6 +15,10 @@ Matlab script was used to train CNN and store net configuration in csv files. Py
 <p>
 <img align="left" width="500" height="250" src="https://github.com/tomyslavs/cnn2fpga/blob/master/conv-core.png" />
 </p>
+<br />
+<br />
+<br />
+<br />
 ```
 to be continued...
 ```
