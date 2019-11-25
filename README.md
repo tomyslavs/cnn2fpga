@@ -10,7 +10,6 @@ Python script to load csv and stream net configuration to ZynQ chip on ZedBoard 
 code example
 ```
 
-Some references:
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+Related papers:
+* [Paper 1](https://ieeexplore.ieee.org/document/8732160) - Adaptation of convolution and batch normalization layer
+* [Paper 2](https://ieeexplore.ieee.org/document/8592464) - CNN training and image classification on PC
