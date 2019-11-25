@@ -13,7 +13,7 @@ Matlab script was used to train CNN and store net configuration in csv files. Py
 
 ## Convolution-BN-ReLu-MaxPool Core
 
-<img align="left" width="100" height="100" src="http://www.fillmurray.com/100/100">
+<img align="left" width="100" height="100" src="https://github.com/tomyslavs/cnn2fpga/blob/master/conv-core.png">
 
 ```
 code example
