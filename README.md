@@ -18,5 +18,4 @@ code example
 Related papers:
 * [Paper 1](https://ieeexplore.ieee.org/document/8732160) - Adaptation of convolution and batch normalization layer
 * [Paper 2](https://ieeexplore.ieee.org/document/8592464) - CNN training and image classification on PC
-
 * **T S** - *Initial work* - [Reference](https://reference.here)
