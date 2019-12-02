@@ -3,7 +3,7 @@
 ## Introduction
 This project was created to test different configuration of CNN on ZynQ platform. Image (color or gray) and net configuration are transmitted to ZedBoard, stored in DDR and processed on the chip (with processing system - PS and programmable logic - PL). The classification results are transmitted back to PC.
 
-## Tools
+## Tools used in this project
 
 * Matlab
 * Python
