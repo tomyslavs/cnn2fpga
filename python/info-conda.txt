@@ -1,0 +1,11 @@
+conda env list                              # Get a list of all my environments, active environment is shown with *
+conda create --name py35 python=3.5         # Create a new environment named py35, install Python 3.5
+conda create --name bio-env biopython       # Stack commands: create a new environment, name it bio-env and install the biopython package
+
+activate py35                               # Activate the new environment to use it
+deactivate                                  # Deactivate the current environment
+
+conda env remove --name bio-env             # Delete an environment and everything in it
+
+
+
