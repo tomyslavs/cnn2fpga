@@ -1,0 +1,7 @@
+//arch = zynq; split = false; format = BIN
+the_ROM_image:
+{
+	[bootloader]C:\vivado\project_12axis\project_12axis.sdk\fsbl\Debug\fsbl.elf
+	C:\vivado\project_12axis\project_12axis.sdk\design_1_wrapper_hw_platform_0\design_1_wrapper.bit
+	C:\vivado\project_12axis\project_12axis.sdk\app5\Debug\app5.elf
+}
