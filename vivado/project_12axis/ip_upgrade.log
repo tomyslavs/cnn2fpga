@@ -1,0 +1,2820 @@
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.2 (win64) Build 3367213 Tue Oct 19 02:48:09 MDT 2021
+| Date         : Thu Apr  7 12:07:58 2022
+| Host         : MSI running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_xlconcat_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_xlconcat_0_0 (xilinx.com:ip:xlconcat:2.1) from (Rev. 1) to (Rev. 4)
+
+
+
+
+
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.2 (win64) Build 3367213 Tue Oct 19 02:48:09 MDT 2021
+| Date         : Thu Apr  7 12:07:58 2022
+| Host         : MSI running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_rst_ps7_0_100M_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_rst_ps7_0_100M_0 (xilinx.com:ip:proc_sys_reset:5.0) from (Rev. 11) to (Rev. 13)
+
+
+
+
+
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.2 (win64) Build 3367213 Tue Oct 19 02:48:09 MDT 2021
+| Date         : Thu Apr  7 12:07:58 2022
+| Host         : MSI running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_ps7_0_axi_periph_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_ps7_0_axi_periph_0 (xilinx.com:ip:axi_interconnect:2.1) from (Rev. 14) to (Rev. 26)
+
+
+
+
+
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.2 (win64) Build 3367213 Tue Oct 19 02:48:09 MDT 2021
+| Date         : Thu Apr  7 12:07:58 2022
+| Host         : MSI running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_processing_system7_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_processing_system7_0_0 (xilinx.com:ip:processing_system7:5.5) from (Rev. 5) to (Rev. 6)
+
+2. Upgrade messages
+-------------------
+
+WARNING: upgrade cannot add parameter PCW_TRACE_INTERNAL_WIDTH with default value 32 : a parameter called PCW_TRACE_INTERNAL_WIDTH already exists in processing_system7_v5_5
+WARNING: upgrade cannot add parameter PCW_USE_AXI_NONSECURE with default value 0 : a parameter called PCW_USE_AXI_NONSECURE already exists in processing_system7_v5_5
+WARNING: upgrade cannot add parameter PCW_EN_PTP_ENET0 with default value 1 : a parameter called PCW_EN_PTP_ENET0 already exists in processing_system7_v5_5
+WARNING: upgrade cannot add parameter PCW_EN_PTP_ENET0 with default value 1 : a parameter called PCW_EN_PTP_ENET0 already exists in processing_system7_v5_5
+WARNING: upgrade cannot add parameter PCW_GP0_NUM_WRITE_THREADS with default value 4 : a parameter called PCW_GP0_NUM_WRITE_THREADS already exists in processing_system7_v5_5
+WARNING: upgrade cannot add parameter PCW_GP0_NUM_READ_THREADS with default value 4 : a parameter called PCW_GP0_NUM_READ_THREADS already exists in processing_system7_v5_5
+WARNING: upgrade cannot add parameter PCW_GP1_NUM_WRITE_THREADS with default value 4 : a parameter called PCW_GP1_NUM_WRITE_THREADS already exists in processing_system7_v5_5
+WARNING: upgrade cannot add parameter PCW_GP1_NUM_READ_THREADS with default value 4 : a parameter called PCW_GP1_NUM_READ_THREADS already exists in processing_system7_v5_5
+WARNING: upgrade cannot add parameter PCW_GP0_EN_MODIFIABLE_TXN with default value 0 : a parameter called PCW_GP0_EN_MODIFIABLE_TXN already exists in processing_system7_v5_5
+WARNING: upgrade cannot add parameter PCW_GP1_EN_MODIFIABLE_TXN with default value 0 : a parameter called PCW_GP1_EN_MODIFIABLE_TXN already exists in processing_system7_v5_5
+
+
+
+
+
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.2 (win64) Build 3367213 Tue Oct 19 02:48:09 MDT 2021
+| Date         : Thu Apr  7 12:07:58 2022
+| Host         : MSI running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_conv_bn_core_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of design_1_conv_bn_core_0_0 (xilinx.com:user:conv_bn_core:1.0 (Rev. 98)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.2 (win64) Build 3367213 Tue Oct 19 02:48:09 MDT 2021
+| Date         : Thu Apr  7 12:07:58 2022
+| Host         : MSI running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_axi_smc_3_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_axi_smc_3_0 (xilinx.com:ip:smartconnect:1.0) from (Rev. 5) to (Rev. 17)
+
+After upgrade, an IP may have parameter and port differences compared to the original customization. Please review the parameters within the IP customization GUI to ensure proper functionality. Also, please review the updated IP instantiation template to ensure proper connectivity, and update your design if required.
+
+2. Connection and Interface Information
+---------------------------------------
+
+Connection and Interface information can not be compared for deferred elaboration IPs.
+design_1_axi_smc_3_0 may have connection or interface changes.
+
+
+
+
+
+
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.2 (win64) Build 3367213 Tue Oct 19 02:48:09 MDT 2021
+| Date         : Thu Apr  7 12:07:58 2022
+| Host         : MSI running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_axi_smc_2_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_axi_smc_2_0 (xilinx.com:ip:smartconnect:1.0) from (Rev. 5) to (Rev. 17)
+
+After upgrade, an IP may have parameter and port differences compared to the original customization. Please review the parameters within the IP customization GUI to ensure proper functionality. Also, please review the updated IP instantiation template to ensure proper connectivity, and update your design if required.
+
+2. Connection and Interface Information
+---------------------------------------
+
+Connection and Interface information can not be compared for deferred elaboration IPs.
+design_1_axi_smc_2_0 may have connection or interface changes.
+
+
+
+
+
+
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.2 (win64) Build 3367213 Tue Oct 19 02:48:09 MDT 2021
+| Date         : Thu Apr  7 12:07:58 2022
+| Host         : MSI running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_axi_smc_1_1'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_axi_smc_1_1 (xilinx.com:ip:smartconnect:1.0) from (Rev. 5) to (Rev. 17)
+
+After upgrade, an IP may have parameter and port differences compared to the original customization. Please review the parameters within the IP customization GUI to ensure proper functionality. Also, please review the updated IP instantiation template to ensure proper connectivity, and update your design if required.
+
+2. Connection and Interface Information
+---------------------------------------
+
+Connection and Interface information can not be compared for deferred elaboration IPs.
+design_1_axi_smc_1_1 may have connection or interface changes.
+
+
+
+
+
+
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.2 (win64) Build 3367213 Tue Oct 19 02:48:09 MDT 2021
+| Date         : Thu Apr  7 12:07:58 2022
+| Host         : MSI running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_axi_smc_1_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_axi_smc_1_0 (xilinx.com:ip:smartconnect:1.0) from (Rev. 5) to (Rev. 17)
+
+After upgrade, an IP may have parameter and port differences compared to the original customization. Please review the parameters within the IP customization GUI to ensure proper functionality. Also, please review the updated IP instantiation template to ensure proper connectivity, and update your design if required.
+
+2. Connection and Interface Information
+---------------------------------------
+
+Connection and Interface information can not be compared for deferred elaboration IPs.
+design_1_axi_smc_1_0 may have connection or interface changes.
+
+
+
+
+
+
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.2 (win64) Build 3367213 Tue Oct 19 02:48:09 MDT 2021
+| Date         : Thu Apr  7 12:07:58 2022
+| Host         : MSI running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_axi_gpio_9_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_axi_gpio_9_0 (xilinx.com:ip:axi_gpio:2.0) from (Rev. 15) to (Rev. 27)
+
+
+
+
+
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.2 (win64) Build 3367213 Tue Oct 19 02:48:09 MDT 2021
+| Date         : Thu Apr  7 12:07:58 2022
+| Host         : MSI running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_axi_gpio_8_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_axi_gpio_8_0 (xilinx.com:ip:axi_gpio:2.0) from (Rev. 15) to (Rev. 27)
+
+
+
+
+
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.2 (win64) Build 3367213 Tue Oct 19 02:48:09 MDT 2021
+| Date         : Thu Apr  7 12:07:58 2022
+| Host         : MSI running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_axi_gpio_7_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_axi_gpio_7_0 (xilinx.com:ip:axi_gpio:2.0) from (Rev. 15) to (Rev. 27)
+
+
+
+
+
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.2 (win64) Build 3367213 Tue Oct 19 02:48:09 MDT 2021
+| Date         : Thu Apr  7 12:07:58 2022
+| Host         : MSI running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_axi_gpio_6_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_axi_gpio_6_0 (xilinx.com:ip:axi_gpio:2.0) from (Rev. 15) to (Rev. 27)
+
+
+
+
+
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.2 (win64) Build 3367213 Tue Oct 19 02:48:09 MDT 2021
+| Date         : Thu Apr  7 12:07:58 2022
+| Host         : MSI running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_axi_gpio_5_2'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_axi_gpio_5_2 (xilinx.com:ip:axi_gpio:2.0) from (Rev. 15) to (Rev. 27)
+
+
+
+
+
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.2 (win64) Build 3367213 Tue Oct 19 02:48:09 MDT 2021
+| Date         : Thu Apr  7 12:07:58 2022
+| Host         : MSI running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_axi_gpio_5_1'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_axi_gpio_5_1 (xilinx.com:ip:axi_gpio:2.0) from (Rev. 15) to (Rev. 27)
+
+
+
+
+
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.2 (win64) Build 3367213 Tue Oct 19 02:48:09 MDT 2021
+| Date         : Thu Apr  7 12:07:58 2022
+| Host         : MSI running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_axi_gpio_5_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_axi_gpio_5_0 (xilinx.com:ip:axi_gpio:2.0) from (Rev. 15) to (Rev. 27)
+
+
+
+
+
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.2 (win64) Build 3367213 Tue Oct 19 02:48:09 MDT 2021
+| Date         : Thu Apr  7 12:07:58 2022
+| Host         : MSI running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_axi_gpio_4_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_axi_gpio_4_0 (xilinx.com:ip:axi_gpio:2.0) from (Rev. 15) to (Rev. 27)
+
+
+
+
+
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.2 (win64) Build 3367213 Tue Oct 19 02:48:09 MDT 2021
+| Date         : Thu Apr  7 12:07:58 2022
+| Host         : MSI running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_axi_gpio_3_5'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_axi_gpio_3_5 (xilinx.com:ip:axi_gpio:2.0) from (Rev. 15) to (Rev. 27)
+
+
+
+
+
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.2 (win64) Build 3367213 Tue Oct 19 02:48:09 MDT 2021
+| Date         : Thu Apr  7 12:07:58 2022
+| Host         : MSI running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_axi_gpio_3_4'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_axi_gpio_3_4 (xilinx.com:ip:axi_gpio:2.0) from (Rev. 15) to (Rev. 27)
+
+
+
+
+
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.2 (win64) Build 3367213 Tue Oct 19 02:48:09 MDT 2021
+| Date         : Thu Apr  7 12:07:58 2022
+| Host         : MSI running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_axi_gpio_3_3'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_axi_gpio_3_3 (xilinx.com:ip:axi_gpio:2.0) from (Rev. 15) to (Rev. 27)
+
+
+
+
+
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.2 (win64) Build 3367213 Tue Oct 19 02:48:09 MDT 2021
+| Date         : Thu Apr  7 12:07:58 2022
+| Host         : MSI running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_axi_gpio_3_2'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_axi_gpio_3_2 (xilinx.com:ip:axi_gpio:2.0) from (Rev. 15) to (Rev. 27)
+
+
+
+
+
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.2 (win64) Build 3367213 Tue Oct 19 02:48:09 MDT 2021
+| Date         : Thu Apr  7 12:07:58 2022
+| Host         : MSI running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_axi_gpio_3_1'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_axi_gpio_3_1 (xilinx.com:ip:axi_gpio:2.0) from (Rev. 15) to (Rev. 27)
+
+
+
+
+
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.2 (win64) Build 3367213 Tue Oct 19 02:48:09 MDT 2021
+| Date         : Thu Apr  7 12:07:58 2022
+| Host         : MSI running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_axi_gpio_3_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_axi_gpio_3_0 (xilinx.com:ip:axi_gpio:2.0) from (Rev. 15) to (Rev. 27)
+
+
+
+
+
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.2 (win64) Build 3367213 Tue Oct 19 02:48:09 MDT 2021
+| Date         : Thu Apr  7 12:07:58 2022
+| Host         : MSI running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_axi_gpio_31_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_axi_gpio_31_0 (xilinx.com:ip:axi_gpio:2.0) from (Rev. 15) to (Rev. 27)
+
+
+
+
+
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.2 (win64) Build 3367213 Tue Oct 19 02:48:09 MDT 2021
+| Date         : Thu Apr  7 12:07:58 2022
+| Host         : MSI running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_axi_gpio_30_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_axi_gpio_30_0 (xilinx.com:ip:axi_gpio:2.0) from (Rev. 15) to (Rev. 27)
+
+
+
+
+
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.2 (win64) Build 3367213 Tue Oct 19 02:48:09 MDT 2021
+| Date         : Thu Apr  7 12:07:58 2022
+| Host         : MSI running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_axi_gpio_2_2'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_axi_gpio_2_2 (xilinx.com:ip:axi_gpio:2.0) from (Rev. 15) to (Rev. 27)
+
+
+
+
+
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.2 (win64) Build 3367213 Tue Oct 19 02:48:09 MDT 2021
+| Date         : Thu Apr  7 12:07:58 2022
+| Host         : MSI running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_axi_gpio_2_1'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_axi_gpio_2_1 (xilinx.com:ip:axi_gpio:2.0) from (Rev. 15) to (Rev. 27)
+
+
+
+
+
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.2 (win64) Build 3367213 Tue Oct 19 02:48:09 MDT 2021
+| Date         : Thu Apr  7 12:07:58 2022
+| Host         : MSI running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_axi_gpio_2_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_axi_gpio_2_0 (xilinx.com:ip:axi_gpio:2.0) from (Rev. 15) to (Rev. 27)
+
+
+
+
+
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.2 (win64) Build 3367213 Tue Oct 19 02:48:09 MDT 2021
+| Date         : Thu Apr  7 12:07:58 2022
+| Host         : MSI running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_axi_gpio_29_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_axi_gpio_29_0 (xilinx.com:ip:axi_gpio:2.0) from (Rev. 15) to (Rev. 27)
+
+
+
+
+
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.2 (win64) Build 3367213 Tue Oct 19 02:48:09 MDT 2021
+| Date         : Thu Apr  7 12:07:58 2022
+| Host         : MSI running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_axi_gpio_27_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_axi_gpio_27_0 (xilinx.com:ip:axi_gpio:2.0) from (Rev. 15) to (Rev. 27)
+
+
+
+
+
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.2 (win64) Build 3367213 Tue Oct 19 02:48:09 MDT 2021
+| Date         : Thu Apr  7 12:07:58 2022
+| Host         : MSI running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_axi_gpio_26_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_axi_gpio_26_0 (xilinx.com:ip:axi_gpio:2.0) from (Rev. 15) to (Rev. 27)
+
+
+
+
+
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.2 (win64) Build 3367213 Tue Oct 19 02:48:09 MDT 2021
+| Date         : Thu Apr  7 12:07:58 2022
+| Host         : MSI running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_axi_gpio_25_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_axi_gpio_25_0 (xilinx.com:ip:axi_gpio:2.0) from (Rev. 15) to (Rev. 27)
+
+
+
+
+
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.2 (win64) Build 3367213 Tue Oct 19 02:48:09 MDT 2021
+| Date         : Thu Apr  7 12:07:58 2022
+| Host         : MSI running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_axi_gpio_24_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_axi_gpio_24_0 (xilinx.com:ip:axi_gpio:2.0) from (Rev. 15) to (Rev. 27)
+
+
+
+
+
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.2 (win64) Build 3367213 Tue Oct 19 02:48:09 MDT 2021
+| Date         : Thu Apr  7 12:07:58 2022
+| Host         : MSI running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_axi_gpio_23_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_axi_gpio_23_0 (xilinx.com:ip:axi_gpio:2.0) from (Rev. 15) to (Rev. 27)
+
+
+
+
+
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.2 (win64) Build 3367213 Tue Oct 19 02:48:09 MDT 2021
+| Date         : Thu Apr  7 12:07:58 2022
+| Host         : MSI running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_axi_gpio_22_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_axi_gpio_22_0 (xilinx.com:ip:axi_gpio:2.0) from (Rev. 15) to (Rev. 27)
+
+
+
+
+
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.2 (win64) Build 3367213 Tue Oct 19 02:48:09 MDT 2021
+| Date         : Thu Apr  7 12:07:58 2022
+| Host         : MSI running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_axi_gpio_21_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_axi_gpio_21_0 (xilinx.com:ip:axi_gpio:2.0) from (Rev. 15) to (Rev. 27)
+
+
+
+
+
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.2 (win64) Build 3367213 Tue Oct 19 02:48:09 MDT 2021
+| Date         : Thu Apr  7 12:07:58 2022
+| Host         : MSI running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_axi_gpio_20_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_axi_gpio_20_0 (xilinx.com:ip:axi_gpio:2.0) from (Rev. 15) to (Rev. 27)
+
+
+
+
+
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.2 (win64) Build 3367213 Tue Oct 19 02:48:09 MDT 2021
+| Date         : Thu Apr  7 12:07:58 2022
+| Host         : MSI running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_axi_gpio_1_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_axi_gpio_1_0 (xilinx.com:ip:axi_gpio:2.0) from (Rev. 15) to (Rev. 27)
+
+
+
+
+
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.2 (win64) Build 3367213 Tue Oct 19 02:48:09 MDT 2021
+| Date         : Thu Apr  7 12:07:58 2022
+| Host         : MSI running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_axi_gpio_19_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_axi_gpio_19_0 (xilinx.com:ip:axi_gpio:2.0) from (Rev. 15) to (Rev. 27)
+
+
+
+
+
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.2 (win64) Build 3367213 Tue Oct 19 02:48:09 MDT 2021
+| Date         : Thu Apr  7 12:07:58 2022
+| Host         : MSI running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_axi_gpio_17_1'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_axi_gpio_17_1 (xilinx.com:ip:axi_gpio:2.0) from (Rev. 15) to (Rev. 27)
+
+
+
+
+
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.2 (win64) Build 3367213 Tue Oct 19 02:48:09 MDT 2021
+| Date         : Thu Apr  7 12:07:58 2022
+| Host         : MSI running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_axi_gpio_17_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_axi_gpio_17_0 (xilinx.com:ip:axi_gpio:2.0) from (Rev. 15) to (Rev. 27)
+
+
+
+
+
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.2 (win64) Build 3367213 Tue Oct 19 02:48:09 MDT 2021
+| Date         : Thu Apr  7 12:07:58 2022
+| Host         : MSI running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_axi_gpio_16_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_axi_gpio_16_0 (xilinx.com:ip:axi_gpio:2.0) from (Rev. 15) to (Rev. 27)
+
+
+
+
+
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.2 (win64) Build 3367213 Tue Oct 19 02:48:09 MDT 2021
+| Date         : Thu Apr  7 12:07:58 2022
+| Host         : MSI running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_axi_gpio_11_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_axi_gpio_11_0 (xilinx.com:ip:axi_gpio:2.0) from (Rev. 15) to (Rev. 27)
+
+
+
+
+
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.2 (win64) Build 3367213 Tue Oct 19 02:48:09 MDT 2021
+| Date         : Thu Apr  7 12:07:58 2022
+| Host         : MSI running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_axi_gpio_0_2'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_axi_gpio_0_2 (xilinx.com:ip:axi_gpio:2.0) from (Rev. 15) to (Rev. 27)
+
+
+
+
+
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.2 (win64) Build 3367213 Tue Oct 19 02:48:09 MDT 2021
+| Date         : Thu Apr  7 12:07:58 2022
+| Host         : MSI running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_axi_gpio_0_1'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_axi_gpio_0_1 (xilinx.com:ip:axi_gpio:2.0) from (Rev. 15) to (Rev. 27)
+
+
+
+
+
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.2 (win64) Build 3367213 Tue Oct 19 02:48:09 MDT 2021
+| Date         : Thu Apr  7 12:07:58 2022
+| Host         : MSI running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_axi_gpio_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_axi_gpio_0_0 (xilinx.com:ip:axi_gpio:2.0) from (Rev. 15) to (Rev. 27)
+
+
+
+
+
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.2 (win64) Build 3367213 Tue Oct 19 02:48:09 MDT 2021
+| Date         : Thu Apr  7 12:07:58 2022
+| Host         : MSI running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_axi_dma_2_1'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_axi_dma_2_1 (xilinx.com:ip:axi_dma:7.1) from (Rev. 14) to (Rev. 26)
+
+
+
+
+
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.2 (win64) Build 3367213 Tue Oct 19 02:48:09 MDT 2021
+| Date         : Thu Apr  7 12:07:58 2022
+| Host         : MSI running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_axi_dma_2_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_axi_dma_2_0 (xilinx.com:ip:axi_dma:7.1) from (Rev. 14) to (Rev. 26)
+
+
+
+
+
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.2 (win64) Build 3367213 Tue Oct 19 02:48:09 MDT 2021
+| Date         : Thu Apr  7 12:07:58 2022
+| Host         : MSI running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_axi_dma_0_1'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_axi_dma_0_1 (xilinx.com:ip:axi_dma:7.1) from (Rev. 14) to (Rev. 26)
+
+
+
+
+
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.2 (win64) Build 3367213 Tue Oct 19 02:48:09 MDT 2021
+| Date         : Thu Apr  7 12:07:58 2022
+| Host         : MSI running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_axi_dma_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_axi_dma_0_0 (xilinx.com:ip:axi_dma:7.1) from (Rev. 14) to (Rev. 26)
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.2 (win64) Build 1909853 Thu Jun 15 18:39:09 MDT 2017
+| Date         : Thu Apr  9 10:43:09 2020
+| Host         : MSI running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_conv_bn_core_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of design_1_conv_bn_core_0_0 (xilinx.com:user:conv_bn_core:1.0 (Rev. 98)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.2 (win64) Build 1909853 Thu Jun 15 18:39:09 MDT 2017
+| Date         : Thu Apr  9 10:31:00 2020
+| Host         : MSI running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_conv_bn_core_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of design_1_conv_bn_core_0_0 (xilinx.com:user:conv_bn_core:1.0 (Rev. 98)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.2 (win64) Build 1909853 Thu Jun 15 18:39:09 MDT 2017
+| Date         : Thu Apr  9 10:16:22 2020
+| Host         : MSI running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_conv_bn_core_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of design_1_conv_bn_core_0_0 (xilinx.com:user:conv_bn_core:1.0 (Rev. 98)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.2 (win64) Build 1909853 Thu Jun 15 18:39:09 MDT 2017
+| Date         : Thu Apr  9 09:51:10 2020
+| Host         : MSI running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_conv_bn_core_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_conv_bn_core_0_0 (xilinx.com:user:conv_bn_core:1.0) from (Rev. 97) to (Rev. 98)
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.2 (win64) Build 1909853 Thu Jun 15 18:39:09 MDT 2017
+| Date         : Thu Feb 27 11:24:41 2020
+| Host         : MSI running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_conv_bn_core_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_conv_bn_core_0_0 (xilinx.com:user:conv_bn_core:1.0) from (Rev. 96) to (Rev. 97)
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.2 (win64) Build 1909853 Thu Jun 15 18:39:09 MDT 2017
+| Date         : Mon Feb 10 13:52:43 2020
+| Host         : MSI running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_conv_bn_core_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_conv_bn_core_0_0 (xilinx.com:user:conv_bn_core:1.0) from (Rev. 95) to (Rev. 96)
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.2 (win64) Build 1909853 Thu Jun 15 18:39:09 MDT 2017
+| Date         : Mon Feb 10 12:45:21 2020
+| Host         : MSI running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_conv_bn_core_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_conv_bn_core_0_0 (xilinx.com:user:conv_bn_core:1.0) from (Rev. 93) to (Rev. 95)
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.2 (win64) Build 1909853 Thu Jun 15 18:39:09 MDT 2017
+| Date         : Mon Feb 10 12:37:57 2020
+| Host         : MSI running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_conv_bn_core_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of design_1_conv_bn_core_0_0 (xilinx.com:user:conv_bn_core:1.0 (Rev. 93)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.2 (win64) Build 1909853 Thu Jun 15 18:39:09 MDT 2017
+| Date         : Sun Feb  9 23:29:58 2020
+| Host         : MSI running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_conv_bn_core_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_conv_bn_core_0_0 (xilinx.com:user:conv_bn_core:1.0) from (Rev. 92) to (Rev. 93)
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.2 (win64) Build 1909853 Thu Jun 15 18:39:09 MDT 2017
+| Date         : Sun Feb  9 23:18:59 2020
+| Host         : MSI running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_conv_bn_core_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of design_1_conv_bn_core_0_0 (xilinx.com:user:conv_bn_core:1.0 (Rev. 92)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.2 (win64) Build 1909853 Thu Jun 15 18:39:09 MDT 2017
+| Date         : Sun Feb  9 15:06:33 2020
+| Host         : MSI running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_conv_bn_core_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_conv_bn_core_0_0 (xilinx.com:user:conv_bn_core:1.0) from (Rev. 91) to (Rev. 92)
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.2 (win64) Build 1909853 Thu Jun 15 18:39:09 MDT 2017
+| Date         : Sun Feb  9 00:14:03 2020
+| Host         : MSI running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_conv_bn_core_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_conv_bn_core_0_0 (xilinx.com:user:conv_bn_core:1.0) from (Rev. 89) to (Rev. 91)
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.2 (win64) Build 1909853 Thu Jun 15 18:39:09 MDT 2017
+| Date         : Sat Feb  8 20:03:06 2020
+| Host         : MSI running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_conv_bn_core_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_conv_bn_core_0_0 (xilinx.com:user:conv_bn_core:1.0) from (Rev. 88) to (Rev. 89)
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.2 (win64) Build 1909853 Thu Jun 15 18:39:09 MDT 2017
+| Date         : Sat Feb  8 16:33:17 2020
+| Host         : MSI running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_conv_bn_core_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of design_1_conv_bn_core_0_0 (xilinx.com:user:conv_bn_core:1.0 (Rev. 88)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.2 (win64) Build 1909853 Thu Jun 15 18:39:09 MDT 2017
+| Date         : Sat Feb  8 12:22:18 2020
+| Host         : MSI running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_conv_bn_core_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of design_1_conv_bn_core_0_0 (xilinx.com:user:conv_bn_core:1.0 (Rev. 88)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.2 (win64) Build 1909853 Thu Jun 15 18:39:09 MDT 2017
+| Date         : Fri Feb  7 22:44:35 2020
+| Host         : MSI running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_conv_bn_core_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_conv_bn_core_0_0 (xilinx.com:user:conv_bn_core:1.0) from (Rev. 87) to (Rev. 88)
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.2 (win64) Build 1909853 Thu Jun 15 18:39:09 MDT 2017
+| Date         : Wed Feb  5 11:59:30 2020
+| Host         : MSI running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_conv_bn_core_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_conv_bn_core_0_0 (xilinx.com:user:conv_bn_core:1.0) from (Rev. 86) to (Rev. 87)
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.2 (win64) Build 1909853 Thu Jun 15 18:39:09 MDT 2017
+| Date         : Wed Feb  5 11:58:41 2020
+| Host         : MSI running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_conv_bn_core_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of design_1_conv_bn_core_0_0 (xilinx.com:user:conv_bn_core:1.0 (Rev. 86)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.2 (win64) Build 1909853 Thu Jun 15 18:39:09 MDT 2017
+| Date         : Wed Feb  5 10:02:23 2020
+| Host         : MSI running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_conv_bn_core_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_conv_bn_core_0_0 (xilinx.com:user:conv_bn_core:1.0) from (Rev. 85) to (Rev. 86)
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.2 (win64) Build 1909853 Thu Jun 15 18:39:09 MDT 2017
+| Date         : Tue Feb  4 17:55:04 2020
+| Host         : MSI running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_conv_bn_core_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of design_1_conv_bn_core_0_0 (xilinx.com:user:conv_bn_core:1.0 (Rev. 85)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.2 (win64) Build 1909853 Thu Jun 15 18:39:09 MDT 2017
+| Date         : Tue Feb  4 17:30:04 2020
+| Host         : MSI running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_conv_bn_core_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_conv_bn_core_0_0 (xilinx.com:user:conv_bn_core:1.0) from (Rev. 83) to (Rev. 85)
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.2 (win64) Build 1909853 Thu Jun 15 18:39:09 MDT 2017
+| Date         : Sun Feb  2 22:28:49 2020
+| Host         : MSI running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_conv_bn_core_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_conv_bn_core_0_0 (xilinx.com:user:conv_bn_core:1.0) from (Rev. 81) to (Rev. 83)
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.2 (win64) Build 1909853 Thu Jun 15 18:39:09 MDT 2017
+| Date         : Sun Feb  2 22:07:52 2020
+| Host         : MSI running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_conv_bn_core_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_conv_bn_core_0_0 (xilinx.com:user:conv_bn_core:1.0) from (Rev. 78) to (Rev. 81)
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.2 (win64) Build 1909853 Thu Jun 15 18:39:09 MDT 2017
+| Date         : Sun Feb  2 22:07:38 2020
+| Host         : MSI running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_conv_bn_core_0_0'
+
+1. Summary
+----------
+
+CAUTION (success, with warnings) in the upgrade of design_1_conv_bn_core_0_0 (xilinx.com:user:conv_bn_core:1.0) from (Rev. 76) to (Rev. 78)
+
+After upgrade, an IP may have parameter and port differences compared to the original customization. Please review the parameters within the IP customization GUI to ensure proper functionality. Also, please review the updated IP instantiation template to ensure proper connectivity, and update your design if required.
+
+2. Connection Warnings
+----------------------
+
+Detected external port differences while upgrading 'design_1_conv_bn_core_0_0'. These changes may impact your design.
+
+
+-Upgrade has added port 'arm_precision'
+
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.2 (win64) Build 1909853 Thu Jun 15 18:39:09 MDT 2017
+| Date         : Wed Jan 29 22:35:04 2020
+| Host         : MSI running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_conv_bn_core_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_conv_bn_core_0_0 (xilinx.com:user:conv_bn_core:1.0) from (Rev. 75) to (Rev. 76)
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.2 (win64) Build 1909853 Thu Jun 15 18:39:09 MDT 2017
+| Date         : Wed Jan 29 22:23:13 2020
+| Host         : MSI running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_conv_bn_core_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_conv_bn_core_0_0 (xilinx.com:user:conv_bn_core:1.0) from (Rev. 74) to (Rev. 75)
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.2 (win64) Build 1909853 Thu Jun 15 18:39:09 MDT 2017
+| Date         : Wed Jan 29 22:17:51 2020
+| Host         : MSI running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_conv_bn_core_0_0'
+
+1. Summary
+----------
+
+CAUTION (success, with warnings) in the upgrade of design_1_conv_bn_core_0_0 (xilinx.com:user:conv_bn_core:1.0) from (Rev. 73) to (Rev. 74)
+
+After upgrade, an IP may have parameter and port differences compared to the original customization. Please review the parameters within the IP customization GUI to ensure proper functionality. Also, please review the updated IP instantiation template to ensure proper connectivity, and update your design if required.
+
+2. Connection Warnings
+----------------------
+
+Detected external port differences while upgrading 'design_1_conv_bn_core_0_0'. These changes may impact your design.
+
+
+-Upgrade has added port 'arm_tic'
+
+-Upgrade has added port 'arm_toc'
+
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.2 (win64) Build 1909853 Thu Jun 15 18:39:09 MDT 2017
+| Date         : Tue Jan 28 11:28:03 2020
+| Host         : MSI running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_conv_bn_core_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_conv_bn_core_0_0 (xilinx.com:user:conv_bn_core:1.0) from (Rev. 72) to (Rev. 73)
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.2 (win64) Build 1909853 Thu Jun 15 18:39:09 MDT 2017
+| Date         : Tue Jan 28 11:27:00 2020
+| Host         : MSI running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_conv_bn_core_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of design_1_conv_bn_core_0_0 (xilinx.com:user:conv_bn_core:1.0 (Rev. 72)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.2 (win64) Build 1909853 Thu Jun 15 18:39:09 MDT 2017
+| Date         : Thu Jan 23 12:51:02 2020
+| Host         : MSI running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_conv_bn_core_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_conv_bn_core_0_0 (xilinx.com:user:conv_bn_core:1.0) from (Rev. 68) to (Rev. 72)
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.2 (win64) Build 1909853 Thu Jun 15 18:39:09 MDT 2017
+| Date         : Tue Jan 21 23:50:25 2020
+| Host         : MSI running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_conv_bn_core_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_conv_bn_core_0_0 (xilinx.com:user:conv_bn_core:1.0) from (Rev. 67) to (Rev. 68)
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.2 (win64) Build 1909853 Thu Jun 15 18:39:09 MDT 2017
+| Date         : Fri Jan 17 09:55:20 2020
+| Host         : T-PC running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_conv_bn_core_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of design_1_conv_bn_core_0_0 (xilinx.com:user:conv_bn_core:1.0 (Rev. 67)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.2 (win64) Build 1909853 Thu Jun 15 18:39:09 MDT 2017
+| Date         : Fri Jan 17 09:48:41 2020
+| Host         : T-PC running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_conv_bn_core_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_conv_bn_core_0_0 (xilinx.com:user:conv_bn_core:1.0) from (Rev. 66) to (Rev. 67)
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.2 (win64) Build 1909853 Thu Jun 15 18:39:09 MDT 2017
+| Date         : Fri Jan 10 09:59:29 2020
+| Host         : T-PC running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_conv_bn_core_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of design_1_conv_bn_core_0_0 (xilinx.com:user:conv_bn_core:1.0 (Rev. 66)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.2 (win64) Build 1909853 Thu Jun 15 18:39:09 MDT 2017
+| Date         : Thu Jan  9 23:03:03 2020
+| Host         : T-PC running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_conv_bn_core_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_conv_bn_core_0_0 (xilinx.com:user:conv_bn_core:1.0) from (Rev. 65) to (Rev. 66)
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.2 (win64) Build 1909853 Thu Jun 15 18:39:09 MDT 2017
+| Date         : Thu Jan  9 19:43:29 2020
+| Host         : T-PC running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_conv_bn_core_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_conv_bn_core_0_0 (xilinx.com:user:conv_bn_core:1.0) from (Rev. 63) to (Rev. 65)
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.2 (win64) Build 1909853 Thu Jun 15 18:39:09 MDT 2017
+| Date         : Thu Jan  9 19:40:21 2020
+| Host         : T-PC running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_conv_bn_core_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_conv_bn_core_0_0 (xilinx.com:user:conv_bn_core:1.0) from (Rev. 61) to (Rev. 63)
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.2 (win64) Build 1909853 Thu Jun 15 18:39:09 MDT 2017
+| Date         : Thu Jan  9 19:39:43 2020
+| Host         : T-PC running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_conv_bn_core_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of design_1_conv_bn_core_0_0 (xilinx.com:user:conv_bn_core:1.0 (Rev. 61)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.2 (win64) Build 1909853 Thu Jun 15 18:39:09 MDT 2017
+| Date         : Wed Jan  8 14:55:52 2020
+| Host         : T-PC running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_conv_bn_core_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_conv_bn_core_0_0 (xilinx.com:user:conv_bn_core:1.0) from (Rev. 59) to (Rev. 61)
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.2 (win64) Build 1909853 Thu Jun 15 18:39:09 MDT 2017
+| Date         : Wed Jan  8 14:55:10 2020
+| Host         : T-PC running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_conv_bn_core_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of design_1_conv_bn_core_0_0 (xilinx.com:user:conv_bn_core:1.0 (Rev. 59)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.2 (win64) Build 1909853 Thu Jun 15 18:39:09 MDT 2017
+| Date         : Wed Jan  8 11:16:48 2020
+| Host         : T-PC running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_conv_bn_core_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_conv_bn_core_0_0 (xilinx.com:user:conv_bn_core:1.0) from (Rev. 58) to (Rev. 59)
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.2 (win64) Build 1909853 Thu Jun 15 18:39:09 MDT 2017
+| Date         : Tue Jan  7 11:59:25 2020
+| Host         : T-PC running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_conv_bn_core_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_conv_bn_core_0_0 (xilinx.com:user:conv_bn_core:1.0) from (Rev. 55) to (Rev. 58)
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.2 (win64) Build 1909853 Thu Jun 15 18:39:09 MDT 2017
+| Date         : Thu Oct 24 23:15:14 2019
+| Host         : T-PC running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_conv_bn_core_0_0'
+
+1. Summary
+----------
+
+CAUTION (success, with warnings) in the upgrade of design_1_conv_bn_core_0_0 (xilinx.com:user:conv_bn_core:1.0) from (Rev. 54) to (Rev. 55)
+
+After upgrade, an IP may have parameter and port differences compared to the original customization. Please review the parameters within the IP customization GUI to ensure proper functionality. Also, please review the updated IP instantiation template to ensure proper connectivity, and update your design if required.
+
+2. Connection Warnings
+----------------------
+
+Detected external port differences while upgrading 'design_1_conv_bn_core_0_0'. These changes may impact your design.
+
+
+-Upgrade has removed port 'arm_relu_or_pool'
+
+-Upgrade has added port 'arm_merge_xn'
+
+-Upgrade has added port 'arm_xn_or_relu_or_pool'
+
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.2 (win64) Build 1909853 Thu Jun 15 18:39:09 MDT 2017
+| Date         : Wed Oct 23 21:55:14 2019
+| Host         : T-PC running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_conv_bn_core_0_0'
+
+1. Summary
+----------
+
+CAUTION (success, with warnings) in the upgrade of design_1_conv_bn_core_0_0 (xilinx.com:user:conv_bn_core:1.0) from (Rev. 53) to (Rev. 54)
+
+After upgrade, an IP may have parameter and port differences compared to the original customization. Please review the parameters within the IP customization GUI to ensure proper functionality. Also, please review the updated IP instantiation template to ensure proper connectivity, and update your design if required.
+
+2. Connection Warnings
+----------------------
+
+Detected external port differences while upgrading 'design_1_conv_bn_core_0_0'. These changes may impact your design.
+
+
+-Upgrade has added port 'arm_select_conv_core_config'
+
+-Upgrade has added port 'arm_update_conv_core_config'
+
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.2 (win64) Build 1909853 Thu Jun 15 18:39:09 MDT 2017
+| Date         : Wed Oct 16 00:01:14 2019
+| Host         : T-PC running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_conv_bn_core_0_0'
+
+1. Summary
+----------
+
+CAUTION (success, with warnings) in the upgrade of design_1_conv_bn_core_0_0 (xilinx.com:user:conv_bn_core:1.0) from (Rev. 46) to (Rev. 53)
+
+After upgrade, an IP may have parameter and port differences compared to the original customization. Please review the parameters within the IP customization GUI to ensure proper functionality. Also, please review the updated IP instantiation template to ensure proper connectivity, and update your design if required.
+
+2. Connection Warnings
+----------------------
+
+Detected external port differences while upgrading 'design_1_conv_bn_core_0_0'. These changes may impact your design.
+
+
+-Upgrade has removed port 'arm_enable_fc1'
+
+-Upgrade has added port 'arm_ack_done'
+
+-Upgrade has added port 'arm_enable_fc2_filter'
+
+-Upgrade has added port 'arm_enable_fc_out_read_back'
+
+-Upgrade has added port 'arm_fc1_in_max'
+
+-Upgrade has added port 'arm_fc2_to_ddr'
+
+-Upgrade has added port 'arm_update_fc1_b'
+
+-Upgrade has added port 'arm_update_fc1_data'
+
+-Upgrade has added port 'arm_update_fc2_b'
+
+-Upgrade has added port 'operation_done'
+
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.2 (win64) Build 1909853 Thu Jun 15 18:39:09 MDT 2017
+| Date         : Mon Sep 23 13:05:43 2019
+| Host         : T-PC running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_conv_bn_core_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_conv_bn_core_0_0 (xilinx.com:user:conv_bn_core:1.0) from (Rev. 45) to (Rev. 46)
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.2 (win64) Build 1909853 Thu Jun 15 18:39:09 MDT 2017
+| Date         : Mon Sep 16 16:39:01 2019
+| Host         : T-PC running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_conv_bn_core_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_conv_bn_core_0_0 (xilinx.com:user:conv_bn_core:1.0) from (Rev. 44) to (Rev. 45)
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.2 (win64) Build 1909853 Thu Jun 15 18:39:09 MDT 2017
+| Date         : Mon Sep  9 17:34:21 2019
+| Host         : T-PC running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_conv_bn_core_0_0'
+
+1. Summary
+----------
+
+CAUTION (success, with warnings) in the upgrade of design_1_conv_bn_core_0_0 (xilinx.com:user:conv_bn_core:1.0) from (Rev. 42) to (Rev. 44)
+
+After upgrade, an IP may have parameter and port differences compared to the original customization. Please review the parameters within the IP customization GUI to ensure proper functionality. Also, please review the updated IP instantiation template to ensure proper connectivity, and update your design if required.
+
+2. Connection Warnings
+----------------------
+
+Detected external port differences while upgrading 'design_1_conv_bn_core_0_0'. These changes may impact your design.
+
+
+-Upgrade has added port 'arm_enable_fc1_filter'
+
+-Upgrade has added port 'arm_fc1_max'
+
+-Upgrade has added port 'arm_fc2_max'
+
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.2 (win64) Build 1909853 Thu Jun 15 18:39:09 MDT 2017
+| Date         : Thu Sep  5 22:13:52 2019
+| Host         : T-PC running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_conv_bn_core_0_0'
+
+1. Summary
+----------
+
+CAUTION (success, with warnings) in the upgrade of design_1_conv_bn_core_0_0 (xilinx.com:user:conv_bn_core:1.0) from (Rev. 41) to (Rev. 42)
+
+After upgrade, an IP may have parameter and port differences compared to the original customization. Please review the parameters within the IP customization GUI to ensure proper functionality. Also, please review the updated IP instantiation template to ensure proper connectivity, and update your design if required.
+
+2. Connection Warnings
+----------------------
+
+Detected external port differences while upgrading 'design_1_conv_bn_core_0_0'. These changes may impact your design.
+
+
+-Upgrade has added port 'arm_enable_fc1'
+
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.2 (win64) Build 1909853 Thu Jun 15 18:39:09 MDT 2017
+| Date         : Thu Sep  5 14:08:14 2019
+| Host         : T-PC running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_conv_bn_core_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_conv_bn_core_0_0 (xilinx.com:user:conv_bn_core:1.0) from (Rev. 39) to (Rev. 41)
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.2 (win64) Build 1909853 Thu Jun 15 18:39:09 MDT 2017
+| Date         : Thu Sep  5 12:35:52 2019
+| Host         : T-PC running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_conv_bn_core_0_0'
+
+1. Summary
+----------
+
+CAUTION (success, with warnings) in the upgrade of design_1_conv_bn_core_0_0 (xilinx.com:user:conv_bn_core:1.0) from (Rev. 38) to (Rev. 39)
+
+After upgrade, an IP may have parameter and port differences compared to the original customization. Please review the parameters within the IP customization GUI to ensure proper functionality. Also, please review the updated IP instantiation template to ensure proper connectivity, and update your design if required.
+
+2. Connection Warnings
+----------------------
+
+Detected external port differences while upgrading 'design_1_conv_bn_core_0_0'. These changes may impact your design.
+
+
+-Upgrade has added port 'arm_relu_or_pool'
+
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.2 (win64) Build 1909853 Thu Jun 15 18:39:09 MDT 2017
+| Date         : Thu Sep  5 12:28:37 2019
+| Host         : T-PC running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_conv_bn_core_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of design_1_conv_bn_core_0_0 (xilinx.com:user:conv_bn_core:1.0 (Rev. 38)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.2 (win64) Build 1909853 Thu Jun 15 18:39:09 MDT 2017
+| Date         : Thu Sep  5 12:03:58 2019
+| Host         : T-PC running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_conv_bn_core_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_conv_bn_core_0_0 (xilinx.com:user:conv_bn_core:1.0) from (Rev. 37) to (Rev. 38)
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.2 (win64) Build 1909853 Thu Jun 15 18:39:09 MDT 2017
+| Date         : Wed Sep  4 15:46:24 2019
+| Host         : T-PC running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_conv_bn_core_0_0'
+
+1. Summary
+----------
+
+CAUTION (success, with warnings) in the upgrade of design_1_conv_bn_core_0_0 (xilinx.com:user:conv_bn_core:1.0) from (Rev. 33) to (Rev. 37)
+
+After upgrade, an IP may have parameter and port differences compared to the original customization. Please review the parameters within the IP customization GUI to ensure proper functionality. Also, please review the updated IP instantiation template to ensure proper connectivity, and update your design if required.
+
+2. Connection Warnings
+----------------------
+
+Detected external port differences while upgrading 'design_1_conv_bn_core_0_0'. These changes may impact your design.
+
+
+-Upgrade has added port 'arm_enable_filter'
+
+-Upgrade has added port 'arm_update_weights'
+
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.2 (win64) Build 1909853 Thu Jun 15 18:39:09 MDT 2017
+| Date         : Wed Sep  4 15:44:26 2019
+| Host         : T-PC running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_conv_bn_core_0_0'
+
+1. Summary
+----------
+
+CAUTION (success, with warnings) in the upgrade of design_1_conv_bn_core_0_0 (xilinx.com:user:conv_bn_core:1.0) from (Rev. 32) to (Rev. 33)
+
+After upgrade, an IP may have parameter differences compared to the original customization. Please review the parameters within the IP customization GUI to ensure proper functionality.
+
+2. Customization warnings
+-------------------------
+
+Parameter 'NFi' is no longer present on the upgraded IP 'design_1_conv_bn_core_0_0', and cannot be set to '8'
+
+Parameter 'NFo' is no longer present on the upgraded IP 'design_1_conv_bn_core_0_0', and cannot be set to '16'
+
+
+3. Debug Commands
+-----------------
+
+  The following debug information can be passed to Vivado as Tcl commands,
+in order to validate or debug the output of the upgrade flow.
+  You may consult any warnings from within this upgrade, and alter or remove
+the configuration parameter(s) which caused the warning; then execute the Tcl
+commands, and use the IP Customization GUI to verify the IP configuration.
+
+create_ip -vlnv xilinx.com:user:conv_bn_core:1.0 -user_name design_1_conv_bn_core_0_0
+set_property -dict "\
+  CONFIG.C_M00_AXIS_START_COUNT {32} \
+  CONFIG.C_M00_AXIS_TDATA_WIDTH {32} \
+  CONFIG.C_M01_AXIS_START_COUNT {32} \
+  CONFIG.C_M01_AXIS_TDATA_WIDTH {32} \
+  CONFIG.C_S00_AXIS_TDATA_WIDTH {32} \
+  CONFIG.C_S01_AXIS_TDATA_WIDTH {32} \
+  CONFIG.Component_Name {design_1_conv_bn_core_0_0} \
+  CONFIG.M00_AXIS.WIZ_DATA_WIDTH {32} \
+  CONFIG.M00_AXIS_CLK.ASSOCIATED_BUSIF {M00_AXIS} \
+  CONFIG.M00_AXIS_CLK.ASSOCIATED_RESET {m00_axis_aresetn} \
+  CONFIG.M00_AXIS_RST.POLARITY {ACTIVE_LOW} \
+  CONFIG.M01_AXIS.WIZ_DATA_WIDTH {32} \
+  CONFIG.M01_AXIS_CLK.ASSOCIATED_BUSIF {M01_AXIS} \
+  CONFIG.M01_AXIS_CLK.ASSOCIATED_RESET {m01_axis_aresetn} \
+  CONFIG.M01_AXIS_RST.POLARITY {ACTIVE_LOW} \
+  CONFIG.S00_AXIS.WIZ_DATA_WIDTH {32} \
+  CONFIG.S00_AXIS_CLK.ASSOCIATED_BUSIF {S00_AXIS} \
+  CONFIG.S00_AXIS_CLK.ASSOCIATED_RESET {s00_axis_aresetn} \
+  CONFIG.S00_AXIS_RST.POLARITY {ACTIVE_LOW} \
+  CONFIG.S01_AXIS.WIZ_DATA_WIDTH {32} \
+  CONFIG.S01_AXIS_CLK.ASSOCIATED_BUSIF {S01_AXIS} \
+  CONFIG.S01_AXIS_CLK.ASSOCIATED_RESET {s01_axis_aresetn} \
+  CONFIG.S01_AXIS_RST.POLARITY {ACTIVE_LOW} \
+  CONFIG.m00_axis_aclk.ASSOCIATED_RESET {m00_axis_aresetn} \
+  CONFIG.m00_axis_aresetn.POLARITY {ACTIVE_LOW} \
+  CONFIG.m01_axis_aclk.ASSOCIATED_RESET {m01_axis_aresetn} \
+  CONFIG.m01_axis_aresetn.POLARITY {ACTIVE_LOW} \
+  CONFIG.s00_axis_aclk.ASSOCIATED_RESET {s00_axis_aresetn} \
+  CONFIG.s00_axis_aresetn.POLARITY {ACTIVE_LOW} \
+  CONFIG.s01_axis_aclk.ASSOCIATED_RESET {s01_axis_aresetn} \
+  CONFIG.s01_axis_aresetn.POLARITY {ACTIVE_LOW} " [get_ips design_1_conv_bn_core_0_0]
+
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.2 (win64) Build 1909853 Thu Jun 15 18:39:09 MDT 2017
+| Date         : Tue Sep  3 17:14:41 2019
+| Host         : T-PC running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_conv_bn_core_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of design_1_conv_bn_core_0_0 (xilinx.com:user:conv_bn_core:1.0 (Rev. 32)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.2 (win64) Build 1909853 Thu Jun 15 18:39:09 MDT 2017
+| Date         : Tue Sep  3 16:51:55 2019
+| Host         : T-PC running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_conv_bn_core_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of design_1_conv_bn_core_0_0 (xilinx.com:user:conv_bn_core:1.0 (Rev. 32)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.2 (win64) Build 1909853 Thu Jun 15 18:39:09 MDT 2017
+| Date         : Tue Sep  3 16:16:53 2019
+| Host         : T-PC running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_conv_bn_core_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_conv_bn_core_0_0 (xilinx.com:user:conv_bn_core:1.0) from (Rev. 29) to (Rev. 32)
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.2 (win64) Build 1909853 Thu Jun 15 18:39:09 MDT 2017
+| Date         : Tue Sep  3 11:33:16 2019
+| Host         : T-PC running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_conv_bn_core_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_conv_bn_core_0_0 (xilinx.com:user:conv_bn_core:1.0) from (Rev. 28) to (Rev. 29)
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.2 (win64) Build 1909853 Thu Jun 15 18:39:09 MDT 2017
+| Date         : Tue Sep  3 11:31:10 2019
+| Host         : T-PC running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_conv_bn_core_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_conv_bn_core_0_0 (xilinx.com:user:conv_bn_core:1.0) from (Rev. 27) to (Rev. 28)
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.2 (win64) Build 1909853 Thu Jun 15 18:39:09 MDT 2017
+| Date         : Fri Aug 30 15:09:26 2019
+| Host         : T-PC running 64-bit Service Pack 1  (build 7601)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_conv_bn_core_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_conv_bn_core_0_0 (xilinx.com:user:conv_bn_core:1.0) from (Rev. 26) to (Rev. 27)
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.2 (win64) Build 1909853 Thu Jun 15 18:39:09 MDT 2017
+| Date         : Wed Aug 28 17:05:19 2019
+| Host         : T-PC running 64-bit Service Pack 1  (build 7601)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_conv_bn_core_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_conv_bn_core_0_0 (xilinx.com:user:conv_bn_core:1.0) from (Rev. 25) to (Rev. 26)
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.2 (win64) Build 1909853 Thu Jun 15 18:39:09 MDT 2017
+| Date         : Sat Aug 24 00:16:50 2019
+| Host         : T-PC running 64-bit Service Pack 1  (build 7601)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_conv_bn_core_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_conv_bn_core_0_0 (xilinx.com:user:conv_bn_core:1.0) from (Rev. 23) to (Rev. 25)
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.2 (win64) Build 1909853 Thu Jun 15 18:39:09 MDT 2017
+| Date         : Mon Aug 19 23:41:41 2019
+| Host         : T-PC running 64-bit Service Pack 1  (build 7601)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_conv_bn_core_0_0'
+
+1. Summary
+----------
+
+CAUTION (success, with warnings) in the upgrade of design_1_conv_bn_core_0_0 (xilinx.com:user:conv_bn_core:1.0) from (Rev. 22) to (Rev. 23)
+
+After upgrade, an IP may have parameter and port differences compared to the original customization. Please review the parameters within the IP customization GUI to ensure proper functionality. Also, please review the updated IP instantiation template to ensure proper connectivity, and update your design if required.
+
+2. Connection Warnings
+----------------------
+
+Detected external port differences while upgrading 'design_1_conv_bn_core_0_0'. These changes may impact your design.
+
+
+-Upgrade has added port 'B_in'
+
+-Upgrade has added port 'be_in'
+
+-Upgrade has added port 'ka_in'
+
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.2 (win64) Build 1909853 Thu Jun 15 18:39:09 MDT 2017
+| Date         : Mon Aug 19 23:38:24 2019
+| Host         : T-PC running 64-bit Service Pack 1  (build 7601)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_conv_bn_core_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_conv_bn_core_0_0 (xilinx.com:user:conv_bn_core:1.0) from (Rev. 11) to (Rev. 22)
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.2 (win64) Build 1909853 Thu Jun 15 18:39:09 MDT 2017
+| Date         : Sun Aug 11 23:30:19 2019
+| Host         : T-PC running 64-bit Service Pack 1  (build 7601)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_conv_bn_core_0_0'
+
+1. Summary
+----------
+
+CAUTION (success, with warnings) in the upgrade of design_1_conv_bn_core_0_0 (xilinx.com:user:conv_bn_core:1.0) from (Rev. 9) to (Rev. 11)
+
+After upgrade, an IP may have parameter and port differences compared to the original customization. Please review the parameters within the IP customization GUI to ensure proper functionality. Also, please review the updated IP instantiation template to ensure proper connectivity, and update your design if required.
+
+2. Connection Warnings
+----------------------
+
+Detected external port differences while upgrading 'design_1_conv_bn_core_0_0'. These changes may impact your design.
+
+
+-Upgrade has added port 'arm_x_max'
+
+-Upgrade has added port 'arm_y_max'
+
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.2 (win64) Build 1909853 Thu Jun 15 18:39:09 MDT 2017
+| Date         : Sat Aug 10 22:50:39 2019
+| Host         : T-PC running 64-bit Service Pack 1  (build 7601)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_conv_bn_core_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of design_1_conv_bn_core_0_0 (xilinx.com:user:conv_bn_core:1.0 (Rev. 9)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.2 (win64) Build 1909853 Thu Jun 15 18:39:09 MDT 2017
+| Date         : Sat Aug 10 20:31:50 2019
+| Host         : T-PC running 64-bit Service Pack 1  (build 7601)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_conv_bn_core_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of design_1_conv_bn_core_0_0 (xilinx.com:user:conv_bn_core:1.0 (Rev. 9)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.2 (win64) Build 1909853 Thu Jun 15 18:39:09 MDT 2017
+| Date         : Sat Aug 10 20:16:36 2019
+| Host         : T-PC running 64-bit Service Pack 1  (build 7601)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_conv_bn_core_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_conv_bn_core_0_0 (xilinx.com:user:conv_bn_core:1.0) from (Rev. 8) to (Rev. 9)
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.2 (win64) Build 1909853 Thu Jun 15 18:39:09 MDT 2017
+| Date         : Fri Aug  9 17:02:04 2019
+| Host         : T-PC running 64-bit Service Pack 1  (build 7601)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_conv_bn_core_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_conv_bn_core_0_0 (xilinx.com:user:conv_bn_core:1.0) from (Rev. 7) to (Rev. 8)
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.2 (win64) Build 1909853 Thu Jun 15 18:39:09 MDT 2017
+| Date         : Thu Aug  8 23:01:06 2019
+| Host         : T-PC running 64-bit Service Pack 1  (build 7601)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_conv_bn_core_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_conv_bn_core_0_0 (xilinx.com:user:conv_bn_core:1.0) from (Rev. 5) to (Rev. 7)
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.2 (win64) Build 1909853 Thu Jun 15 18:39:09 MDT 2017
+| Date         : Thu Aug  8 18:59:26 2019
+| Host         : T-PC running 64-bit Service Pack 1  (build 7601)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_conv_bn_core_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_conv_bn_core_0_0 (xilinx.com:user:conv_bn_core:1.0) from (Rev. 4) to (Rev. 5)
+

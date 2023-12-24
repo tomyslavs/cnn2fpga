@@ -1,0 +1,76 @@
+#-----------------------------------------------------------
+# Vivado v2017.2 (64-bit)
+# SW Build 1909853 on Thu Jun 15 18:39:09 MDT 2017
+# IP Build 1909766 on Thu Jun 15 19:58:00 MDT 2017
+# Start of session at: Thu Jan  9 19:45:15 2020
+# Process ID: 14432
+# Current directory: C:/vivado/project_12axis
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent1056 C:\vivado\project_12axis\project_12axis.xpr
+# Log file: C:/vivado/project_12axis/vivado.log
+# Journal file: C:/vivado/project_12axis\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/vivado/project_12axis/project_12axis.xpr
+update_compile_order -fileset sources_1
+ipx::edit_ip_in_project -upgrade true -name conv_bn_core_v1_0_v1_0_project -directory C:/vivado/project_12axis/project_12axis.tmp/conv_bn_core_v1_0_v1_0_project c:/vivado/ip_repo/conv_bn_core_1.0/component.xml
+update_compile_order -fileset sources_1
+launch_simulation
+open_wave_config C:/vivado/project_12axis/conv_bn_core_tb_behav.wcfg
+source conv_bn_core_tb.tcl
+run 180 us
+current_project project_12axis
+reset_run synth_1
+launch_runs impl_1 -to_step write_bitstream -jobs 8
+wait_on_run impl_1
+current_project conv_bn_core_v1_0_v1_0_project
+relaunch_sim
+run 180 us
+relaunch_sim
+run 180 us
+relaunch_sim
+run 180 us
+run 180 us
+save_wave_config {C:/vivado/project_12axis/conv_bn_core_tb_behav.wcfg}
+save_wave_config {C:/vivado/project_12axis/conv_bn_core_tb_behav.wcfg}
+save_wave_config {C:/vivado/project_12axis/conv_bn_core_tb_behav.wcfg}
+relaunch_sim
+run 180 us
+relaunch_sim
+run 180 us
+save_wave_config {C:/vivado/project_12axis/conv_bn_core_tb_behav.wcfg}
+save_wave_config {C:/vivado/project_12axis/conv_bn_core_tb_behav.wcfg}
+save_wave_config {C:/vivado/project_12axis/conv_bn_core_tb_behav.wcfg}
+relaunch_sim
+run 180 us
+save_wave_config {C:/vivado/project_12axis/conv_bn_core_tb_behav.wcfg}
+relaunch_sim
+run 180 us
+save_wave_config {C:/vivado/project_12axis/conv_bn_core_tb_behav.wcfg}
+ipx::merge_project_changes files [ipx::current_core]
+ipx::merge_project_changes hdl_parameters [ipx::current_core]
+set_property core_revision 66 [ipx::current_core]
+ipx::create_xgui_files [ipx::current_core]
+ipx::update_checksums [ipx::current_core]
+ipx::save_core [ipx::current_core]
+close_project -delete
+update_ip_catalog -rebuild -scan_changes
+report_ip_status -name ip_status
+upgrade_ip -vlnv xilinx.com:user:conv_bn_core:1.0 [get_ips  design_1_conv_bn_core_0_0] -log ip_upgrade.log
+export_ip_user_files -of_objects [get_ips design_1_conv_bn_core_0_0] -no_script -sync -force -quiet
+report_ip_status -name ip_status 
+validate_bd_design
+ipx::edit_ip_in_project -upgrade true -name conv_bn_core_v1_0_v1_0_project -directory C:/vivado/project_12axis/project_12axis.tmp/conv_bn_core_v1_0_v1_0_project c:/vivado/ip_repo/conv_bn_core_1.0/component.xml
+save_bd_design
+reset_run synth_1
+launch_runs impl_1 -to_step write_bitstream -jobs 8
+wait_on_run impl_1
+write_hwdef -force  -file C:/vivado/project_12axis/project_12axis.sdk/design_1_wrapper.hdf
+launch_sdk -workspace C:/vivado/project_12axis/project_12axis.sdk -hwspec C:/vivado/project_12axis/project_12axis.sdk/design_1_wrapper.hdf
+file copy -force C:/vivado/project_12axis/project_12axis.runs/impl_1/design_1_wrapper.sysdef C:/vivado/project_12axis/project_12axis.sdk/design_1_wrapper.hdf
+
+launch_sdk -workspace C:/vivado/project_12axis/project_12axis.sdk -hwspec C:/vivado/project_12axis/project_12axis.sdk/design_1_wrapper.hdf
+update_ip_catalog -rebuild -scan_changes
+report_ip_status -name ip_status
+upgrade_ip -vlnv xilinx.com:user:conv_bn_core:1.0 [get_ips  design_1_conv_bn_core_0_0] -log ip_upgrade.log
+export_ip_user_files -of_objects [get_ips design_1_conv_bn_core_0_0] -no_script -sync -force -quiet
+report_ip_status -name ip_status 
